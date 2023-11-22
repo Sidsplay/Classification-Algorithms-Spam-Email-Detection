@@ -1,9 +1,3 @@
-# Classification-Algorithms-Spam-Email-Detection
-
-Certainly! Here's a README file for the provided classification analysis code:
-
----
-
 # Classification: Spam Email Detection
 
 ## Overview
